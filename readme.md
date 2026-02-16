@@ -22,6 +22,8 @@ Candidates are ranked based on their scores.
 Candidates above a defined threshold are shortlisted.
 Automated emails are sent to shortlisted candidates.
 Results are stored in the database and displayed in the dashboard.
+<img width="1919" height="856" alt="Screenshot 2026-02-16 073919" src="https://github.com/user-attachments/assets/e40c2c2b-3e7c-403f-bbf9-e07878911365" />
+
 
 Tech Stack
 Python
@@ -33,3 +35,4 @@ Streamlit
 SMTP (Email Automation)
 SQLite Database
 n8n / Automation Anywhere (Workflow Automation)
+
