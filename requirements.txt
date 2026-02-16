@@ -1,0 +1,10 @@
+sentence-transformers==2.2.2
+transformers==4.34.0
+tokenizers==0.14.1
+streamlit
+pandas
+scikit-learn
+python-dotenv
+numpy
+PyPDF2
+torch
